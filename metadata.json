@@ -1,0 +1,6 @@
+{
+  "name": "Career Catalyst",
+  "description": "An AI-powered app to generate personalized job preparation plans. Input your skills to discover relevant job roles, then create a detailed study guide and weekly to-do list tailored to your experience level and timeline.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
